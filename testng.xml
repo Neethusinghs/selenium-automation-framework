@@ -1,0 +1,11 @@
+
+
+<suite name="Selenium Mini Suite">
+
+    <test name="Mini Project Test">
+        <classes>
+            <class name="com.neethu.tests.Miniproject2_Handle_multiple_features"/>
+        </classes>
+    </test>
+
+</suite>
