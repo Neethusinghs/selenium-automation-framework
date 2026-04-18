@@ -21,5 +21,5 @@
 2. Open in Eclipse
 3. Run testng.xml
 
-## 👩‍💻 Author
+## Author
 Neethu Singh
